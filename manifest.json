@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Created By: minus1over12 \n Ported By: PiSaucer",
+        "name": "Dyslexia Accessibility for Minecraft",
+        "uuid": "21724fe0-9d47-4981-89bd-d1d3f714429a",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "Created By: minus1over12 \n Ported By: PiSaucer",
+            "type": "resources",
+            "uuid": "9a2c8ac4-021d-4565-8479-5a4e283fbe4c",
+            "version": [1, 0, 0]
+        }
+    ]
+}
