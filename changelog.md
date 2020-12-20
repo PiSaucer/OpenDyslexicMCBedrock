@@ -6,7 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [RELEASE]
 
-## [1.0.0] - 2020-12-29
+## [1.0.1] - 2020-12-20
+### Fixed
+- The default8 font
+
+### Removed
+- Unneeded Files
+
+## [1.0.0] - 2020-12-19
 ### Added
 - created America English Version of Open Dyslexic-Bold Font
 - Changed the old pack icon

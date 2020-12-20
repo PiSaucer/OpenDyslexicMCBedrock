@@ -4,7 +4,7 @@
         "description": "Created By: minus1over12 \n Ported By: PiSaucer",
         "name": "Dyslexia Accessibility for Minecraft",
         "uuid": "21724fe0-9d47-4981-89bd-d1d3f714429a",
-        "version": [1, 0, 0],
+        "version": [1, 0, 1],
         "min_engine_version": [ 1, 16, 200 ]
     },
     "modules": [
